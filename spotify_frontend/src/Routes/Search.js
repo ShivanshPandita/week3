@@ -18,7 +18,7 @@ const SearchComponent = () => {
     };
 
     return (
-        <LoggedInContainer curActiveScreen="Search">
+        <LoggedInContainer ActiveScreen="Search">
             <div className="w-full py-6">
                 <div
                     className={`w-1/3 p-3 text-sm rounded-full bg-gray-800 px-5 flex text-white space-x-3 items-center ${
