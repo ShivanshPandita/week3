@@ -213,7 +213,7 @@ const LoggedinHomeContainer = ({ children, ActiveScreen }) => {
             </div>
             <div>{/* progressbar */}</div>
           </div>
-          <div className="w-1/4 text-white flex justify-end">hello</div>
+          <div className="w-1/4 text-white flex justify-end"></div>
         </div>
       )}
     </div>
